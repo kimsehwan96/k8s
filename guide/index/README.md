@@ -53,7 +53,7 @@ services:
 
 - 다음은 쿠버네티스를 이용해 배포해보자 !
 
-```ym;
+```yml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
